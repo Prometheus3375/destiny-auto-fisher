@@ -10,6 +10,14 @@ Inspired by [D2SemiAutoFisher](https://github.com/Chadhendrixs/D2SemiAutoFisher)
 - Anti-AFK system to prevent being kicked from the game during long fishing sessions.
   The system continues to run even if the player stops fishing or dies.
 
+# Caution for users
+
+At August 19th, 2024, Bungie
+[stated](https://www.reddit.com/r/DestinyTheGame/comments/1ew70ro/update_to_destiny_2_restriction_and_ban_policy/)
+that using automated tools to get XP, material or loot is against Terms of Service.
+
+Use this automatic fishing tool for your own risk.
+
 # Installation
 
 ## As an executable program
